@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    true.word # => "yes"
+    false.word # => "no"
 
 ## Contributing
 
