@@ -1,6 +1,8 @@
 # YeahbutNobut
 
-TODO: Write a gem description
+I'm constantly typing
+
+    my_boolean ? "yes" : "no"
 
 ## Installation
 
